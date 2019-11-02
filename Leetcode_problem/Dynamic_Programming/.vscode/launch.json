@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HouseRob",
+      "request": "launch",
+      "mainClass": "HouseRob"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MS",
+      "request": "launch",
+      "mainClass": "MS"
+    }
+  ]
+}
